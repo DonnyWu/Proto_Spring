@@ -19,8 +19,8 @@ public class Title {
     @Id
 
     private ObjectId id;
-    private String imdb;
-    private String Title;
+    private String imdbId;
+    private String title;
     private String releaseDate;
     private String trailerLink;
     private String poster;
